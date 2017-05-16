@@ -1,0 +1,24 @@
+ t_n             10
+ f_n             0
+ Tg              0.853
+ TL              0.0
+ TC              0.0
+ To              0.01
+ Q               0.0
+ qo              0.0
+ tou_c           80.0
+ Gamma           0.0
+ cap_Gamma       0.0
+ seed            1200
+ Ctshold         1.0
+ t_step          0.001
+ x_step          1.0
+ beta            0.0
+ Diff            0.0
+ mass_Diff       0.0
+ grid_x          40000
+ tot_time        50000
+ printfreq       100
+ printfrontpos   100
+ printconcfreq   1000
+

@@ -1,0 +1,24 @@
+ t_n             1
+ f_n             0
+ Tg              0.5
+ TL              0.0
+ TC              0.0
+ To              0.03
+ Q               0.0
+ qo              0.0
+ tou_c           300.0
+ Gamma           0.0
+ cap_Gamma       0.0
+ seed            1523546785
+ Ctshold         1.0
+ t_step          0.001
+ x_step          1.0
+ beta            0.0
+ Diff            0.0
+ mass_Diff       0.0
+ grid_x          1200
+ tot_time        1000
+ datafreq        1000
+ tempfreq        1000
+
+

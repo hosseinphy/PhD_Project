@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=10:00:00
+#PBS -A fyw-423-ae
+#PBS -o outputfile
+#PBS -e errorfile
+#PBS -V
+#PBS -N 1d_serial_oxid  
+#cd /home/hophy/FINAL_CODE/serial/1d/Oxd_model
+cd /gs/scratch/hophy/Simulation_results/1d_serial_kint/1_1_1_1_1_1/1dserial_kint
+./input0 input0.in
+

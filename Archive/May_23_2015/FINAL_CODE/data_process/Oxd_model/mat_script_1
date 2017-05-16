@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=30:00:00
+#PBS -V
+#PBS -N matlab_job<br>
+#PBS -A fyw-423-ae
+
+cd /home/hophy/FINAL_CODE/data_process/Oxd_model
+matlab -nodisplay < main_temp_1.m > output1
+

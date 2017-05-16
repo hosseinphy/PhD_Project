@@ -1,0 +1,25 @@
+ t_n             0
+ run_number      0
+ Tg              0.3
+ TL              0.0
+ TC              0.0
+ To              0.03
+ Q               209165.328
+ qo              0.0
+ tou_c           10.0
+ Gamma           1.12
+ cap_Gamma       0.0
+ seed            14237645671
+ Ctshold         1.0
+ t_step          0.001
+ x_step          0.25
+ beta            0.0
+ Diff            0.0
+ mass_Diff       10.0
+ lambda          4.0
+ grid_x          6000
+ tot_time        5000
+ printfreq       10000
+ printfrontpos   1000
+ printconcfreq   10000
+
