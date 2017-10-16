@@ -1,0 +1,16 @@
+int confignum = 1000;  
+int save_freq = 50;	
+int ratio_freq =1;
+int print_freq = 50;	
+int boxX = 80;	
+int boxY = 600;	
+double fraction = 0.7;       
+double density = 1;       
+double deltar = 0.1;
+double deltar_max = 0.5;
+char* readfile = new
+char* writefile=RDF.dat	 	
+char* configuration=config.dat 
+
+
+
